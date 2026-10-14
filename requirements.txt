@@ -1,0 +1,7 @@
+# INTENTIONALLY OLD VERSIONS — for scanner testing only
+Django==2.2.0
+requests==2.19.1
+urllib3==1.24.1
+Pillow==6.2.0
+PyYAML==5.1
+Flask==0.12.2
